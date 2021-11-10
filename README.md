@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @furkan-wve
 - 👀 I’m interested in 😊
 - 🌱 I’m currently learning new mobile technologies
-- 💞️ I’m looking to collaborate on small code 👨🏻‍💻
+- 💞️ I’m looking to collaborate on native code 👨🏻‍💻
 - 📫 Reach me on Wve Labs slack
 
 <!---
